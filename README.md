@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # English-Dictionary-Web-App
 
 A simple and interactive web application that allows users to search for English words and provides detailed information including part of speech, meaning, and usage examples. The app is built using **HTML**, **CSS**, and **JavaScript**, and utilizes a dictionary API for fetching word data. It also includes an audio pronunciation feature for each word.
@@ -44,3 +45,6 @@ Contributions are welcome! Feel free to submit issues and pull requests to impro
 
 ## Author
 Developed by **Gaduputi Mahesh **.  
+=======
+
+>>>>>>> 374f832285e57c8d1c6e7cbfed578de6f9971496
