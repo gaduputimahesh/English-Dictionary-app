@@ -42,5 +42,5 @@ Follow these steps to download and run the project locally:
 Contributions are welcome! Feel free to submit issues and pull requests to improve the app.
 
 ## Author
-Developed by **Gaduputi Mahesh **.  
+Developed by   Mahesh .  
 =======
