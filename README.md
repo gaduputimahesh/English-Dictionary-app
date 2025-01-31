@@ -36,9 +36,7 @@ Follow these steps to download and run the project locally:
 
 ## Dependencies
 - Internet connection is required to fetch data from the dictionary API.
-  
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Contributing
 Contributions are welcome! Feel free to submit issues and pull requests to improve the app.
@@ -46,5 +44,3 @@ Contributions are welcome! Feel free to submit issues and pull requests to impro
 ## Author
 Developed by **Gaduputi Mahesh **.  
 =======
-
->>>>>>> 374f832285e57c8d1c6e7cbfed578de6f9971496
